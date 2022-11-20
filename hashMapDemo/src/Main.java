@@ -1,5 +1,4 @@
 import java.util.HashMap;
-
 public class Main {
     public static void main(String[] args) {
         //<calısıcagımız tipleri yazıyoruz>
@@ -15,12 +14,9 @@ public class Main {
             System.out.println("eleman:"+item+"deger:"+sozluk.get(item));
             //bu sayede sırayla hem elemanı hemde degerleri verir
         }
-
         System.out.println(sozluk);//hepsini yazdırmak için
         System.out.println(sozluk.get("table"));//table in karsısı masa olur
         sozluk.remove("table");//table ı silmeye yarar
         sozluk.clear();//sozlugun tamamını siler
-
-
     }
 }
