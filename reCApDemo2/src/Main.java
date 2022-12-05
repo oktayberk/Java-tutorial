@@ -22,7 +22,6 @@ public class Main {
             System.out.println(number);
 
         }
-
         System.out.println("toplam:" + total);
         System.out.println("en buyuk sayi:" + max);
 
