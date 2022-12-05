@@ -5,6 +5,7 @@ public class Main {
         if (sayi < 30) {
             System.out.println("sayi 20 den kucuktur");
         }
+        
         //if parantez içindeki şartı saglıyorsam bu blogu çalıştır demek
         else if (sayi==40) {
             System.out.println("sayi 40 a eşittir");
