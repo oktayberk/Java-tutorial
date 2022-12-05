@@ -4,7 +4,6 @@ public class Main {
     //For
          //ilk ; i nin başlangıcıdı, 2.; sayacın ne kadar sayacagıdır, 3.; artıs miktarı
         for (int i = 1; i <10 ; i++) {
-
             System.out.println(i);
         }
         System.out.println("dongu bitti");
