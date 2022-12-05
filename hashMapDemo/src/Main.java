@@ -1,6 +1,7 @@
 import java.util.HashMap;
 public class Main {
     public static void main(String[] args) {
+        
         //<calısıcagımız tipleri yazıyoruz>
         HashMap<String ,String> sozluk= new HashMap<String ,String >();
         sozluk.put("book","kitap");//sozluk olusturudugumuzi çin book=kitap gibi dusunebiliriz
@@ -18,5 +19,6 @@ public class Main {
         System.out.println(sozluk.get("table"));//table in karsısı masa olur
         sozluk.remove("table");//table ı silmeye yarar
         sozluk.clear();//sozlugun tamamını siler
+        
     }
 }
