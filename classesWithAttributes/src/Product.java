@@ -2,7 +2,6 @@
 public class Product {
 
     // bir ürünün id si,ismi,vb vardır bunlara attributes denir;
-
       private int id;
       private String name;
      private String description;
