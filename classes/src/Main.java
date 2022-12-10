@@ -1,4 +1,5 @@
 public class Main {
+    
     public static void main(String[] args) {
     //CustomerMan. turunde bir ornek customerman. olausturuyoruz
         CustomerManager customerManager = new CustomerManager(); //class cagırma bu şekilde yapılır
