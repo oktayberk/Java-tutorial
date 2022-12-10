@@ -4,6 +4,5 @@ public class Main {
         KrediUI krediUI=new KrediUI();
         krediUI.KrediHesapla(new AskerKrediManager());
 
-
     }
 }
