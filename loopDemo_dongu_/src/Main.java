@@ -13,6 +13,7 @@ public class Main {
             System.out.println(i);
         }
         System.out.println("for dongu bitti");
+        
 
         //while
         //burada i++ yazmazsak sonsuz dongu acarız.
