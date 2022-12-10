@@ -20,6 +20,5 @@ public class Main {
         for (Object i:sayilar){
             System.out.println(i);  //for dongusu ile butun elemanları yazdırdık. Arada ankara oldugu ıcın object
         }
-
     }
 }
