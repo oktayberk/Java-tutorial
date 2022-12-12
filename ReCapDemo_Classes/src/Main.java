@@ -5,6 +5,5 @@ public class Main {
          int    sonuc=dortIslem.Topla(4,5);
          System.out.println(sonuc);
 
-
     }
 }
