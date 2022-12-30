@@ -6,9 +6,11 @@ public class Main {
         System.out.println("sayi giriniz;");
         int sayi= klavye.nextInt();
         System.out.println("girdiginiz sayi:"+sayi);
-
-
-
+        
+        Scanner scan1=new Scanner(System.in) ;
+        System.out.println("sayi gir;");
+        int sayi= scan1.nextInt();
+        System.out.println("girdiginiz sayi:"+sayi);
 
     }
 }
