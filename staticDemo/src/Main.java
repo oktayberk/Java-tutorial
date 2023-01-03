@@ -2,7 +2,6 @@
 //satic yapılarda newleyerek degil de . koyarak ulaşırız
 //static tanımlanan nesneler bellekten atılmadıgı için heryerde kullanılmaz, genellikle yardımcı fonklarda kullanılır
 
-
 public class Main {
     public static void main(String[] args) {
 
@@ -12,7 +11,5 @@ public class Main {
         product.name="mouse";
 
         manager.add(product); //producti ekleme komutu cagırdık
-
-
     }
 }
